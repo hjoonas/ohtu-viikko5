@@ -1,0 +1,48 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "Tennis",
+                "projectName": "Tennis",
+                "workingDirectory": "/home/hjoo/Ohjelmistotuotanto/ohtu-viikko5/Tennis",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "IntJoukkoSovellus",
+                "projectName": "IntJoukkoSovellus",
+                "workingDirectory": "/home/hjoo/Ohjelmistotuotanto/ohtu-viikko5/IntJoukkoSovellus",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "Tennis",
+                "projectName": "Tennis",
+                "workingDirectory": "/home/hjoo/Ohjelmistotuotanto/ohtu-viikko5/Tennis",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "IntJoukkoSovellus",
+                "projectName": "IntJoukkoSovellus",
+                "workingDirectory": "/home/hjoo/Ohjelmistotuotanto/ohtu-viikko5/IntJoukkoSovellus",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
